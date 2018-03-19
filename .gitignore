@@ -49,3 +49,8 @@ bower.json
 .byebug_history
 
 # End of https://www.gitignore.io/api/rails
+/public/packs
+/public/packs-test
+/node_modules
+yarn-debug.log*
+.yarn-integrity
